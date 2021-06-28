@@ -5,7 +5,7 @@ const Header = () => {
     <>
       <header className="header">
         <AssignmentTurnedInIcon className="custom" />
-        <h1> Keeper Looker</h1>
+        <h1>Google Keeper</h1>
       </header>
     </>
   );
